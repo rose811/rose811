@@ -1,4 +1,5 @@
 # 백장미's GitHub🥀
+##### Welcome to 백장미's GitHub!
 ##### ⦁ I was born in 2010.
 ##### ⦁ I'm a beginner developer.
 
