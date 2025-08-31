@@ -18,4 +18,4 @@ ash.island99
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Stats📋
-![백장미's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose811&show_icons=true&theme=②dark)
+![백장미's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose811&show_icons=true&theme=dark)
