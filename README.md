@@ -1,5 +1,5 @@
 # 백장미's GitHub🥀
-##### Welcome to 백장미's GitHub!
+##### ⦁
 
 <br>
 
