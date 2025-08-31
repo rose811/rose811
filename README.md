@@ -3,10 +3,10 @@
 ##### ⦁ I was born in 2010.
 ##### ⦁ I'm a beginner developer.
 
+<br>
+
 ## My Discord
 ash.island99
-
-<br>
 
 ## 🖥Environment🖥️
 
