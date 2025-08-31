@@ -1,5 +1,5 @@
 # 백장미's GitHub🥀
-##### ⦁
+##### ⦁ I was born in 2010
 
 <br>
 
