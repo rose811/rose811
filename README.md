@@ -1,7 +1,9 @@
 # 백장미's GitHub🥀
 ##### Welcome to 백장미's GitHub!
 ##### ⦁ I'm a beginner developer.
+
 <br>
+
 ## My Discord 📞
 ash.island99
 
