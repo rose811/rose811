@@ -1,6 +1,17 @@
 # 백장미's GitHub🥀
 ##### Welcome to 백장미's GitHub!
 ##### ⦁ I'm a beginner developer.
+```
+           mmmmmm                                           
+           ##""""##                                         
+           ##    ##   m####m   mm#####m   m####m            
+           #######   ##"  "##  ##mmmm "  ##mmmm##           
+           ##  "##m  ##    ##   """"##m  ##""""""           
+           ##    ##  "##mm##"  #mmmmm##  "##mmmm#           
+           ""    """   """"     """"""     """""            
+                                                            
+""""""""""                                        """"""""""
+```
 
 <br>
 
