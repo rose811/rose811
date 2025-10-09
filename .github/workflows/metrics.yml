@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -21,5 +18,5 @@ jobs:
           plugin_anilist_limit_characters: yes
           plugin_anilist_user: rose811
           plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 3
+          plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: no
