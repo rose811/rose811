@@ -19,3 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_limit_characters: yes
+          plugin_anilist_user: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_shuffle: no
