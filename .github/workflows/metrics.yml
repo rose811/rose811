@@ -21,4 +21,5 @@ jobs:
           plugin_anilist_limit_characters: yes
           plugin_anilist_user: rose811
           plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 3
           plugin_anilist_shuffle: no
