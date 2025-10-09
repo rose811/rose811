@@ -34,3 +34,4 @@ ash.island99
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rose811&layout=compact&theme=dark)
 
+![Metrics](/github-metrics.svg)
