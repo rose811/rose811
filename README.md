@@ -31,3 +31,4 @@ ash.island99
 ![장미's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose811&show_icons=true&theme=dark&v=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rose811&layout=compact&theme=dark&v=1)
 
+![Metrics](/github-metrics.svg)
