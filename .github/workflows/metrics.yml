@@ -22,11 +22,3 @@ jobs:
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: no
-      - name: Full history calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
