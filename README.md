@@ -1,5 +1,3 @@
-README.md
-
 # 장미's GitHub🥀
 
 ```
