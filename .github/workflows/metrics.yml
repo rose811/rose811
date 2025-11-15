@@ -10,7 +10,7 @@ jobs:
       name: production
     permissions:
       contents: write
-    steps:
+    steps: 
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
