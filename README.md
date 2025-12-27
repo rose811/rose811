@@ -28,7 +28,7 @@ ash.island99
 
 ## Stats📋
 
-![rose811's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rose811M&theme=dark)
+![rose811's GitHub stats](https://github-readme-stats.vercel.app/api?username=rose811&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rose811&layout=compact&border_radius=10&langs_count=8&theme=dark)
 
 ## My Favorite Characters🤍
